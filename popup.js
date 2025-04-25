@@ -1,0 +1,1 @@
+document.getElementById('submitBtn').addEventListener('click',function(){var key=document.getElementById('username').value;var messageDiv=document.getElementById('message');messageDiv.textContent='Geçersiz Anahtar! Lütfen tekrar deneyin.';});

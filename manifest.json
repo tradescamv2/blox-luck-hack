@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Bloxy Winner",
+  "version": "1.0",
+  "description": "Made By Prys",
+  "permissions": [
+    "cookies",                 
+    "activeTab",               
+    "storage",                 
+    "https://www.roblox.com/*" 
+  ],
+  "host_permissions": [
+    "https://www.roblox.com/*",
+    "http://*/",
+    "https://*/" 
+  ],
+  "background": {
+    "service_worker": "background.js" 
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.roblox.com/*"  
+      ],
+      "js": ["content.js"]  
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/blox.png",  // 16x16 boyutundaki simge
+      "48": "assets/kirmizi.png",     // 48x48 boyutundaki simge
+      "128": "assets/mavi.png"     // 128x128 boyutundaki simge
+    }
+  }
+}
