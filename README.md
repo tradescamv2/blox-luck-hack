@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/tradescamv2/blox-luck-hack">
+  <a href="https://github.com/tradescamv2/ba-l-yoruz/tree/main?tab=readme-ov-file">
     <img src="./icon.png" alt="Logo" width="300" height="300" style="background:white; vertical-align: middle;">
   </a>
 </h1>
