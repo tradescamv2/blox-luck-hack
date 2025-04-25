@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/Download-Bloxluck%20Predictor-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Bloxluck Predictor" />
   </a>
 </p>
-![blox](https://github.com/user-attachments/assets/7073db11-ef0c-4c52-a7e5-921a31736c76)
+
 
 ## 📖 About
 
