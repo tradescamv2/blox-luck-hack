@@ -1,8 +1,12 @@
 <h1 align="center">
-  <a href="https://github.com/tradescamv2/ba-l-yoruz/tree/main?tab=readme-ov-file">
-    <img src="./icon.png" alt="Logo" width="300" height="300" style="background:white; vertical-align: middle;">
+   <img src="https://img.shields.io/badge/Download-Bloxluck%20Predictor-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Bloxluck Predictor" />
   </a>
-</h1>
+</p>
+
+
+
+</div>
+<br />
 
 
 <div align="center">
